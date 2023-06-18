@@ -1,3 +1,5 @@
 # usmanzaza123.github.io
 Hello world
-klsd;flksdf
+klsd;flksdfงานอดิเรก เล่นเกม
+ฺBasic commandline, Configuretion router, basic programer C# python
+
